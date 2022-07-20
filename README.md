@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... WEB DEV from udemy
 - 💞️ I’m looking to collaborate on ... front end development
 - Always trying to learn new technologies and frameworks and programming paradigms.
-- <!--- I have completed learning node js and now I am working on learning mongoDB but as you can see i just begin web developing and now i am working on some projects based on my learning --->
+- I have completed learning node js and now I am working on learning mongoDB but as you can see i just begin web developing and now i am working on some projects based on my learning
 - SKILLS
 - HTML/CSS
 - JavaScript
