@@ -9,7 +9,5 @@
 - C,C++
 - Pandas
 - Tableau
-- Cloud data
-
 
 
