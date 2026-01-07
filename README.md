@@ -1,47 +1,48 @@
-### 👋 Hi, I’m Dhruv Gulwani (@dhruv-2013)
+# Hi, I’m Dhruv Gulwani 👋
 
-🎓 **UNSW Computer Engineering Graduate** | 💡 **AI & Data Consultant** | 🤖 **Research Assistant at UNSW (EF Grant Project)**  
+## About Me
+I’m a **UNSW Computer Engineering graduate** and **Data Analyst & AI Consultant** with experience building data-driven systems and AI-powered applications. I work at the intersection of **data analytics, machine learning, and full-stack development**, turning complex datasets into actionable insights and usable products.
 
-I’m passionate about building **AI-driven applications**, **data-centric systems**, and **interactive web tools** that bridge research and real-world impact.  
-Currently, I’m developing projects in **LLMs**, **autonomous agents**, and **NLP-based recommender systems** — combining engineering precision with creative problem-solving.
-
----
-
-### 🔭 What I’m Working On
-- 🧠 **IntervuAI** — an AI-powered interview simulation system with real-time voice feedback and evaluation dashboards  
-- 🚀 **Project Recommender System** — matching students to academic projects using NLP and vector search  
-- 💬 Exploring **Generative AI**, **RAG pipelines**, and **LLM-powered dashboards**
+I’m currently a **Research Assistant at UNSW (EF Grant Project)**, where I develop NLP-driven pipelines, recommender systems, and analytics dashboards to support real-world decision-making.
 
 ---
 
-### 🌱 What I’m Learning
-- Advanced **Deep Learning & Computer Vision**
-- **LLM deployment**, **RAG architectures**, and **Prompt Engineering**
-- **Full-stack app development** with **Next.js**, **FastAPI**, and **Vercel**
+## What I’m Working On
+- **Data analytics & dashboards** using SQL, Python, Power BI, and Tableau  
+- **IntervuAI** – an AI-powered interview simulation platform with real-time voice feedback and evaluation dashboards  
+- **Project Recommender System** – matching students to academic projects using NLP, embeddings, and vector search  
 
 ---
 
-### 🧰 Tech Stack
+## What I’m Learning
+- Advanced **data analytics & statistical modelling**  
+- **LLM deployment**, **RAG architectures**, and **prompt engineering**  
+- **Full-stack analytics applications** with Next.js, FastAPI, and Vercel  
+
+---
+
+## Tech Stack
 **Languages:** Python, JavaScript, C, C++  
-**Frameworks:** React, Next.js, FastAPI, Streamlit  
-**Data Tools:** Pandas, NumPy, SQL, Power BI, Tableau  
+**Data & Analytics:** SQL, Pandas, NumPy, Power BI, Tableau, Excel  
 **AI/ML:** PyTorch, TensorFlow, scikit-learn, OpenAI API, LangChain  
+**Frameworks:** React, Next.js, FastAPI, Streamlit  
 **Cloud & DevOps:** Vercel, Firebase, Docker, Git, Azure  
 
 ---
 
-### 🤝 I’m Looking to Collaborate On
-- AI/ML research projects (NLP, Computer Vision, Agentic Systems)  
-- Scalable data pipelines and analytics dashboards  
-- Innovative web apps integrating LLMs or automation workflows  
+## Open to Collaborate On
+- Data analytics and business intelligence projects  
+- AI/ML research (NLP, Computer Vision, Agentic Systems)  
+- Analytics-driven web applications and AI-powered dashboards  
 
 ---
 
-### 📫 How to Reach Me
-- 📧 **dhruvgulwani@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/dhruv-gulwani-b12109238/)  
+## Get in Touch
+- Email: **dhruvgulwani@gmail.com**  
+- LinkedIn: https://www.linkedin.com/in/dhruv-gulwani-b12109238/
 
 ---
 
-### ⚡ Fun Fact
-I love turning complex AI ideas into interactive, human-centered apps — and I’ve even built a laundry management system for my college using QR codes and Next.js 😄
+## Fun Fact
+I enjoy turning messy data and complex AI ideas into clean dashboards and human-centred products.  
+I even built a QR-based laundry management system for my college using Next.js.
